@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        coinhexa
+        ch1
       </h1>
       <h2 class="subtitle">
         My fantabulous Nuxt.js project

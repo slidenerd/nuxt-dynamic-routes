@@ -1,4 +1,4 @@
-# coinhexa
+# ch1
 
 > My fantabulous Nuxt.js project
 
